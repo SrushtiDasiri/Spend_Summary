@@ -4,8 +4,8 @@ A modern, beautifully designed expense tracking application built with Flutter t
 
 ## 📸 Screenshots
 
-| Home Screen                               | Category Scroll | Transactions List                                         |
-|-------------------------------------------|----------------|-----------------------------------------------------------|
+| Home Screen                               | Category Scroll                                     | Transactions List                                         |
+|-------------------------------------------|-----------------------------------------------------|-----------------------------------------------------------|
 | ![Home Screen](screenshots/home_page.png) | ![Category Scroll](screenshots/category_scroll.png) | ![Transactions List](screenshots/recent_transactions.png) |
 
 
