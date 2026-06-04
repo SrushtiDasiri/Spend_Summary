@@ -4,12 +4,16 @@ A modern, beautifully designed expense tracking application built with Flutter t
 
 ## 📸 Screenshots
 
-| Home Screen                               | Category Scroll                                     | Transactions List                                         |
-|-------------------------------------------|-----------------------------------------------------|-----------------------------------------------------------|
-| ![Home Screen](screenshots/home_page.png) | ![Category Scroll](screenshots/category_scroll.png) | ![Transactions List](screenshots/recent_transactions.png) |
+### Home Screen
+![Home Screen](screenshots/home_page.png)
 
+### Category Scroll
+![Category Scroll](screenshots/category_scroll.png)
 
-> **Note:** Please refer to the `screenshots` folder for all screen captures.
+### Transactions List
+![Transactions List](screenshots/recent_transactions.png)
+
+> All screenshots are available in the `screenshots` folder.
 
 ## 📱 About The App
 
