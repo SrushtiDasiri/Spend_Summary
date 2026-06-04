@@ -49,5 +49,5 @@ Spend Summary is a comprehensive expense tracking solution that provides users w
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/spend_summary.git
+   https://github.com/SrushtiDasiri/Spend_Summary.git
    cd spend_summary
